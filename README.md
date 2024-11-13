@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhimattx
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on web3
+- 👀 I’m interested in Artificial Intelligence
+- 💞️ I’m looking to collaborate on LLM's
 - 📫 How to reach me ??
 
 <!---
